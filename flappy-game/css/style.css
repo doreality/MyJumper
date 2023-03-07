@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(65, 198, 161, 0.5);
+    margin: 10px;
+}
+
+h1,
+p {
+    color: #c1975c;
+    /* text-align: center; */
+    text-align: center;
+}
+
+#canvas {
+    background-color:rgb(193, 179, 109, 0.8);
+    width: 60%;
+    display: block;
+    margin: 0 auto;
+}
+
