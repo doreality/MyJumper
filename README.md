@@ -1,2 +1,7 @@
 # MyJumper
-A little jumper game. Course project &lt;Game Development with JS> at SoloLearn
+
+A little jumper game. 
+
+Push Any Key to make the red circle jump.
+
+Course project *Game Development with JS* at *SoloLearn*.
